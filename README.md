@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyrill</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
+[![codewars](https://www.codewars.com/users/CCyrillus/badges/large)](https://www.codewars.com/CCyrillus/username)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://www.codewars.com/users/ccyrillus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://www.codewars.com/users/ccyrillus" height="30" width="40" /></a>
